@@ -6,23 +6,19 @@ Hello World ::
     print "Hello World"
     >> Hello World
 
-* `Resume`_
-* `Skills`_
-* `Apps`_
-* `Books`_
-* `Videos`_
-* `Commands`_
-* `Tools`_
-* `Blog`_
+* `Twitter`_
+* `Facebook`_
+* `Instagram`_
+* `Pinterest`_
+* `LinkedIn`_
+* `Github`_
 
-.. _Resume: http://zhangjingqiang.herokuapp.com
-.. _Skills: http://qiang-skills.herokuapp.com
-.. _Apps: http://qiang-apps.herokuapp.com
-.. _Books: http://qiang-books.herokuapp.com
-.. _Videos: http://qiang-videos.herokuapp.com
-.. _Commands: http://qiang-commands.herokuapp.com
-.. _Tools: http://qiang-tools.herokuapp.com
-.. _Blog: http://qiang-blog.herokuapp.com
+.. _Twitter: https://twitter.com/zhangjingqiang
+.. _Facebook: https://facebook.com/zhangjingqiang
+.. _Instagram: https://www.instagram.com/zhangjingqiang
+.. _Pinterest: https://www.pinterest.com/zhangjingqiang
+.. _LinkedIn: https://www.linkedin.com/in/zhangjingqiang
+.. _Github: https://github.com/zhangjingqiang
 
 Guide
 ^^^^^
