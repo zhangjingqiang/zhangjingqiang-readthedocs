@@ -1,5 +1,5 @@
-zhangjingqiang's documentation
-==============================
+zhangjingqiang's document
+=========================
 
 Made by sphinx. Hosted by readthedocs.
 
