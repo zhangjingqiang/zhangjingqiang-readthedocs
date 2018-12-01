@@ -1,6 +1,6 @@
-=====================================
-Welcome to zhangjingqiang's document!
-=====================================
+==========================================
+Welcome to zhangjingqiang's documentation!
+==========================================
 
 ::
 
@@ -8,18 +8,12 @@ Welcome to zhangjingqiang's document!
     >> Hello World
 
 * `Twitter`_
-* `Facebook`_
-* `Instagram`_
-* `Pinterest`_
-* `LinkedIn`_
 * `Github`_
+* `LinkedIn`_
 
 .. _Twitter: https://twitter.com/zhangjingqiang
-.. _Facebook: https://facebook.com/zhangjingqiang
-.. _Instagram: https://www.instagram.com/zhangjingqiang
-.. _Pinterest: https://www.pinterest.com/zhangjingqiang
-.. _LinkedIn: https://www.linkedin.com/in/zhangjingqiang
 .. _Github: https://github.com/zhangjingqiang
+.. _LinkedIn: https://www.linkedin.com/in/zhangjingqiang
 
 Guide
 ^^^^^
