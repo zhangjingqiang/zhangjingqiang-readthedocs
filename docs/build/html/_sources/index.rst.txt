@@ -2,7 +2,7 @@
 Welcome to zhangjingqiang's document!
 =====================================
 
-Hello World ::
+::
 
     print "Hello World"
     >> Hello World
