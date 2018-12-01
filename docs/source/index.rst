@@ -1,5 +1,6 @@
-Welcome to zhangjingqiang's documentation!
-==========================================
+=====================================
+Welcome to zhangjingqiang's document!
+=====================================
 
 Hello World ::
 
@@ -26,5 +27,6 @@ Guide
 .. toctree::
    :maxdepth: 2
 
+   skill
    license
    help

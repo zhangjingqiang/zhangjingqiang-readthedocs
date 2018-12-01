@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'zhangjingqiang'
-copyright = u'2016, zhangjingqiang'
+copyright = u'zhangjingqiang'
 author = u'zhangjingqiang'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -108,7 +108,7 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = "sphinx_rtd_theme"
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -137,7 +137,7 @@ html_theme = 'alabaster'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['nstatic']
+html_static_path = ['static']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -224,7 +224,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'zhangjingqiang.tex', u'zhangjingqiang Documentation',
+    (master_doc, 'zhangjingqiang.tex', u'zhangjingqiang Document',
      u'zhangjingqiang', 'manual'),
 ]
 
@@ -254,7 +254,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'zhangjingqiang', u'zhangjingqiang Documentation',
+    (master_doc, 'zhangjingqiang', u'zhangjingqiang Document',
      [author], 1)
 ]
 
@@ -268,7 +268,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'zhangjingqiang', u'zhangjingqiang Documentation',
+    (master_doc, 'zhangjingqiang', u'zhangjingqiang Document',
      author, 'zhangjingqiang', 'One line description of project.',
      'Miscellaneous'),
 ]
