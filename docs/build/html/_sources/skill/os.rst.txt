@@ -10,6 +10,10 @@ Linux
 * Red Hat Enterprise Linux
 * Linux Mint
 
+Unix
+
+* FreeBSD
+
 Windows
 
 * XP
