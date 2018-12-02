@@ -1,13 +1,12 @@
-zhangjingqiang's documentation
-==============================
+# zhangjingqiang's documentation
 
 Made by sphinx. Hosted by readthedocs.
 
-# How to do?
+## Getting Started
 
 ```
-mkdir zhangjingqiang && cd zhangjingqiang
-mkvirtualenv zhangjingqiang
+mkdir zhangjingqiang-readthedocs && cd zhangjingqiang-readthedocs
+mkvirtualenv zhangjingqiang-readthedocs
 pip install sphinx
 mkdir docs && cd docs
 sphinx-quickstart
