@@ -22,5 +22,6 @@ Guide
    :maxdepth: 2
 
    skill
+   book
    license
    help
