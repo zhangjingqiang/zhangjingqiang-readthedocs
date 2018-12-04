@@ -2,7 +2,9 @@ Infrastructure
 --------------
 
 * Ansible
-* Terraform
 * Vagrant
-* Consul
+* Packer
+* Terraform
 * Vault
+* Nomad
+* Consul
