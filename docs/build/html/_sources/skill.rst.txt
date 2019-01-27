@@ -11,3 +11,5 @@ SKILL
    skill/language
    skill/framework
    skill/database
+   skill/search
+   skill/queue
