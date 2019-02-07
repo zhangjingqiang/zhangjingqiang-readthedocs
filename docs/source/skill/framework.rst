@@ -21,3 +21,4 @@ Web Framework
 * Laravel
 * Tornado
 * Echo
+* Beego
