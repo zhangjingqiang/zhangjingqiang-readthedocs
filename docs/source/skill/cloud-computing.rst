@@ -5,7 +5,6 @@ Private
 
 * OpenStack
 * CloudStack
-* Rancher
 
 Public
 

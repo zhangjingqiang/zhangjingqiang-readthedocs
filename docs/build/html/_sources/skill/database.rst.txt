@@ -5,5 +5,6 @@ Database
 * Microsoft SQL Server
 * PostgreSQL
 * MySQL
+* SQLite
 * Redis
 * MongoDB
