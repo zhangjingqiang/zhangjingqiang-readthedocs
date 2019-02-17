@@ -22,3 +22,4 @@ Web Framework
 * Tornado
 * Echo
 * Beego
+* Revel
