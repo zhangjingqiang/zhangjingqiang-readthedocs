@@ -4,7 +4,7 @@ Made by sphinx. Hosted by readthedocs.
 
 ## Getting Started
 
-```
+```shell
 mkdir zhangjingqiang-readthedocs && cd zhangjingqiang-readthedocs
 mkvirtualenv zhangjingqiang-readthedocs
 pip install sphinx
