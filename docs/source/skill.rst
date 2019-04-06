@@ -7,9 +7,9 @@ SKILL
    skill/big-data
    skill/container
    skill/infrastructure
-   skill/os
-   skill/language
-   skill/framework
+   skill/operating-system
+   skill/programming-language
+   skill/web-framework
    skill/database
-   skill/search
-   skill/queue
+   skill/searching
+   skill/messaging

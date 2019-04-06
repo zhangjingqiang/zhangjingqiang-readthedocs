@@ -4,7 +4,6 @@ Web Framework
 * ASP.NET
 * Struts
 * Spring
-* Grails
 * Zend Framework
 * CodeIgniter
 * CakePHP
