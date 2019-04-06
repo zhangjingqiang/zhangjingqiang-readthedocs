@@ -6,5 +6,4 @@ Database
 * PostgreSQL
 * MySQL
 * SQLite
-* Redis
 * MongoDB

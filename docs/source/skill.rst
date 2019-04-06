@@ -11,5 +11,6 @@ SKILL
    skill/programming-language
    skill/web-framework
    skill/database
+   skill/caching
    skill/searching
    skill/messaging
