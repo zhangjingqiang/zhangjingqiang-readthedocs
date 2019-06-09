@@ -2,22 +2,23 @@ Web Framework
 -------------
 
 * ASP.NET
-* Struts
 * Spring
-* Zend Framework
-* CodeIgniter
+* Struts
+* Laravel
 * CakePHP
+* CodeIgniter
+* Zend Framework
 * Rails
 * Sinatra
 * Padrino
-* DooPHP
 * Django
 * Flask
-* Pyramid
-* Phoenix
-* Express
-* Gin
-* Laravel
 * Tornado
+* Pyramid
+* Express
+* Phoenix
+* Gin
 * Echo
 * Beego
+* Iris
+* Buffalo

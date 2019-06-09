@@ -9,6 +9,6 @@ Programming Language
 * PHP
 * Ruby
 * Python
-* Elixir
 * Node.js
+* Elixir
 * Go
