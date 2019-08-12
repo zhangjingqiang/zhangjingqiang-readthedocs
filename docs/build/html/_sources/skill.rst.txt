@@ -15,3 +15,4 @@ SKILL
    skill/caching
    skill/searching
    skill/messaging
+   skill/frontend
