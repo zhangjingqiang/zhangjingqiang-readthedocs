@@ -5,7 +5,7 @@ SKILL
 
    skill/cloud-computing
    skill/big-data
-   skill/container
+   skill/cloud-native
    skill/infrastructure
    skill/operating-system
    skill/editor
