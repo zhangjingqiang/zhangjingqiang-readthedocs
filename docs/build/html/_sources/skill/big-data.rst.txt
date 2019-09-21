@@ -1,6 +1,5 @@
 Big Data
 --------
 
-* Hadoop
+* Cassandra
 * Spark
-* Kafka
