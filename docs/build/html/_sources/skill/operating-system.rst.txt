@@ -9,16 +9,13 @@ Linux
 * Debian
 * Red Hat Enterprise Linux
 * Linux Mint
+* Deepin
 
 Unix
 
 * FreeBSD
 
-Windows
+Others
 
-* XP
-* 7
-* 8
-* 10
-
-macOS
+* macOS
+* Windows

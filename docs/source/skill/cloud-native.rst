@@ -1,8 +1,8 @@
 Cloud Native
 ------------
 
-* Docker
 * Kubernetes
+* Istio
 * Helm
 * Harbor
 * Prometheus
@@ -10,5 +10,7 @@ Cloud Native
 
 ----------
 
+* CoreOS
+* Docker
 * Rancher
 * DC/OS
