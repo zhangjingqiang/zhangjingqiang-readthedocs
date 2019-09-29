@@ -1,4 +1,6 @@
 HELP
 ====
 
-@zhangjingqiang
+`@zhangjingqiang`_
+
+.. _@zhangjingqiang: https://twitter.com/zhangjingqiang
