@@ -19,3 +19,4 @@ Web Framework
 * Phoenix
 * Gin
 * Echo
+* Beego
