@@ -1,5 +1,0 @@
-Caching
--------
-
-* Redis
-* Memcached
