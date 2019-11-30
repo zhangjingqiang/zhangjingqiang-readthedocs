@@ -11,3 +11,4 @@ SKILL
    skill/programming-language
    skill/web-framework
    skill/database
+   skill/other
