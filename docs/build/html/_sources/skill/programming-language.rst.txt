@@ -1,14 +1,9 @@
 Programming Language
 --------------------
 
-* VB
-* C
-* C++
-* C#
-* Java
-* PHP
 * Ruby
 * Python
+* PHP
 * Node.js
 * Go
 * Elixir

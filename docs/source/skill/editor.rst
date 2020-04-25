@@ -1,5 +1,0 @@
-Editor
-------
-
-* Vim
-* Emacs

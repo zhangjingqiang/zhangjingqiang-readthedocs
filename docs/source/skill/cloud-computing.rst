@@ -1,12 +1,12 @@
 Cloud Computing
 ---------------
 
-Private
+Private Cloud
 
 * OpenStack
-* CloudStack
+* Kubernetes
 
-Public
+Public Cloud
 
 * Amazon Web Services
 * Google Cloud Platform
