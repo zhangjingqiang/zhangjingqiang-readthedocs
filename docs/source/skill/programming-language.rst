@@ -1,10 +1,10 @@
 Programming Language
 --------------------
 
-* Ruby
 * Python
+* Ruby
 * PHP
-* Node.js
 * Go
-* Elixir
 * Rust
+* Elixir
+* Node.js
